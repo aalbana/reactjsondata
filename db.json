@@ -1,0 +1,109 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "Banna",
+          "alamat": "Nganjuk",
+          "umur": 22,
+          "nohp": "087859564633"
+        },
+        {
+          "id": 2,
+          "nama": "Ahmad",
+          "alamat": "Bandung",
+          "umur": 22,
+          "nohp": "087859564633"
+        },
+        {
+          "id": 3,
+          "nama": "Al",
+          "alamat": "Malang",
+          "umur": 22,
+          "nohp": "087859564633"
+        },
+        {
+          "id": 4,
+          "nama": "Al",
+          "alamat": "Malang",
+          "umur": 22,
+          "nohp": "087859564633"
+        },
+        {
+          "id": 5,
+          "nama": "Al",
+          "alamat": "Malang",
+          "umur": 22,
+          "nohp": "087859564633"
+        },
+        {
+          "id": 6,
+          "nama": "Al",
+          "alamat": "Malang",
+          "umur": 22,
+          "nohp": "087859564633"
+        },
+        {
+          "id": 7,
+          "nama": "Al",
+          "alamat": "Malang",
+          "umur": 22,
+          "nohp": "087859564633"
+        },
+        {
+          "id": 8,
+          "nama": "Al",
+          "alamat": "Malang",
+          "umur": 22,
+          "nohp": "087859564633"
+        },
+        {
+          "id": 9,
+          "nama": "Al",
+          "alamat": "Malang",
+          "umur": 22,
+          "nohp": "087859564633"
+        },
+        {
+          "id": 10,
+          "nama": "Al",
+          "alamat": "Malang",
+          "umur": 22,
+          "nohp": "087859564633"
+        },
+        {
+          "id": 11,
+          "nama": "Al",
+          "alamat": "Malang",
+          "umur": 22,
+          "nohp": "087859564633"
+        },
+        {
+          "id": 12,
+          "nama": "Al",
+          "alamat": "Malang",
+          "umur": 22,
+          "nohp": "087859564633"
+        },
+        {
+          "id": 13,
+          "nama": "Al",
+          "alamat": "Malang",
+          "umur": 22,
+          "nohp": "087859564633"
+        },
+        {
+          "id": 14,
+          "nama": "Al",
+          "alamat": "Malang",
+          "umur": 22,
+          "nohp": "087859564633"
+        },
+        {
+          "id": 15,
+          "nama": "Al",
+          "alamat": "Malang",
+          "umur": 22,
+          "nohp": "087859564633"
+        }
+      ]
+}
